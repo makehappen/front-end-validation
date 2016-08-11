@@ -1,0 +1,31 @@
+{
+  "name": "makehappen/front-end-validation",
+  "type": "component",
+  "description": "Front end validation for web forms",
+  "keywords": ["validation", "front end validation", "forms validation"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Florin Ilie",
+      "email": "florin@makehappen.com"
+    }
+  ],
+  "require": {
+    "components/jquery.js": ">=1.12.0"
+  },
+  "support": {
+    "issues": "https://github.com/makehappen/front-end-validation/issues",
+    "source": "https://github.com/makehappen/front-end-validation"
+  },
+  "extra": {
+    "component": {
+      "name": "front-end-validation",
+      "scripts": [
+        "./src/*"
+      ],
+      "files": [
+        "front-end-validation.min.js"
+      ]
+    }
+  }
+}
