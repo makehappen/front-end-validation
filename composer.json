@@ -11,7 +11,7 @@
     }
   ],
   "require": {
-    "components/jquery.js": ">=1.12.0"
+
   },
   "support": {
     "issues": "https://github.com/makehappen/front-end-validation/issues",
