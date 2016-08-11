@@ -5,11 +5,13 @@
 
 ## Requires
 
-* jQuery 1.12.0
+* [jQuery >=1.12.0](http://jquery.com/) 
+ 
 
 ## Optional
 
-* Bootstrap 3.3.7
+* [Bootstrap >=3.3.7](http://getbootstrap.com/)
+
 
 #### Getting Started
 ```
